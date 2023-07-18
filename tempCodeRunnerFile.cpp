@@ -1,0 +1,1 @@
+cout << rem(10,5) << endl;
